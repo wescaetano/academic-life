@@ -19,7 +19,7 @@ Reserved repository to list a little of my `academic life.`
 
 ## 📖 Courses <a name="courses"></a>
 
-Below is a list of the courses I completed. There are currently `3` courses with a total of `106 hours.`
+Below is a list of the courses I completed. There are currently `4` courses with a total of `106 hours.`
 
 
 #### Algorithms
