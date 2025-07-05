@@ -36,6 +36,6 @@ Below is a list of the courses I completed. There are currently `4` courses with
 
 #### REST APIs
 
-- REST APIs: Building a robust API with .Net and Ajure. _School: [Udemy](https://www.udemy.com/)._ _Duration: 9h._ :paperclip: [here](https://www.udemy.com/certificate/UC-6140a2d7-86a8-4ae0-922a-890c12cca994/)
+- REST APIs: Building a robust API with .Net and Azure. _School: [Udemy](https://www.udemy.com/)._ _Duration: 9h._ :paperclip: [here](https://www.udemy.com/certificate/UC-6140a2d7-86a8-4ae0-922a-890c12cca994/)
 
 
