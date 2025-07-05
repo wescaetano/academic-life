@@ -9,7 +9,7 @@ Reserved repository to list a little of my `academic life.`
 
 ## Academic Education <a name="education"></a> 
 
-- `	Bachelor of Technology in Systems Development` - Faculty of Technology of Itapetininga (FATEC-ITA) _(Brazil) [website](https://fatecitapetininga.edu.br/)._ 2024-2026 (3 years). 
+- `Bachelor of Technology in Systems Development` - Faculty of Technology of Itapetininga (FATEC-ITA) _(Brazil) [website](https://fatecitapetininga.edu.br/)._ 2024-2026 (3 years). 
 
 ## Languages <a name="language"></a> 
 
