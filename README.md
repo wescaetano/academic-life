@@ -2,22 +2,22 @@
 
 Reserved repository to list a little of my `academic life.`
 
-## 🧭 Index
+## Index
 - [Academic Education](#education)
 - [Languages](#language)
 - [Courses](#courses)
 
-## 👨‍🎓 Academic Education <a name="education"></a> 
+## Academic Education <a name="education"></a> 
 
 - `	Bachelor of Technology in Systems Development` - Faculty of Technology of Itapetininga (FATEC-ITA) _(Brazil) [website](https://fatecitapetininga.edu.br/)._ 2024-2026 (3 years). 
 
-## 🌎 Languages <a name="language"></a> 
+## Languages <a name="language"></a> 
 
 - **Portuguese:** Native speaker. 🇧🇷
 - **English:** Full professional proficiency. 🇺🇸
 - **Spanish:** Elementary proficiency. 🇪🇸
 
-## 📖 Courses <a name="courses"></a>
+## Courses <a name="courses"></a>
 
 Below is a list of the courses I completed. There are currently `4` courses with a total of `106 hours.`
 
