@@ -1,4 +1,4 @@
-# 🎓 My academic life
+# 🎓 Academic life
 
 Reserved repository to list a little of my `academic life.`
 
