@@ -24,18 +24,18 @@ Below is a list of the courses I completed. There are currently `4` courses with
 
 #### Algorithms
 
-- Algorithms I: Algorithms and programming logic. _School: [Udemy](https://www.udemy.com/)._ _Duration: 30h._  Certificate: [here](https://www.udemy.com/certificate/UC-072b8660-e2c1-48f8-b122-a2abcdb9634b/)
+- Algorithms I: Algorithms and programming logic. _School: [Udemy](https://www.udemy.com/)._ _Duration: 30h._ [certificate](https://www.udemy.com/certificate/UC-072b8660-e2c1-48f8-b122-a2abcdb9634b/)
 
 #### Java
 
-- Java: OOP the complete course + projects. _School: [Udemy](https://www.udemy.com/)._ _Duration: 54.5h._ Certificate: [here](https://www.udemy.com/certificate/UC-22dab666-5801-49b6-a5e6-0d3d00ca9e50/)
+- Java: OOP the complete course + projects. _School: [Udemy](https://www.udemy.com/)._ _Duration: 54.5h._ [certificate](https://www.udemy.com/certificate/UC-22dab666-5801-49b6-a5e6-0d3d00ca9e50/)
 
 #### C#
 
-- Fundamentals of C#. _School: [Balta.io](https://balta.io/)._ _Duration: 12h._ Certificate: [here](https://balta.io/certificados/6c1a4729-f298-4c7d-8859-9dceca7ce2bb)
+- Fundamentals of C#. _School: [Balta.io](https://balta.io/)._ _Duration: 12h._ [certificate](https://balta.io/certificados/6c1a4729-f298-4c7d-8859-9dceca7ce2bb)
 
 #### REST APIs
 
-- REST APIs: Building a robust API with .Net and Azure. _School: [Udemy](https://www.udemy.com/)._ _Duration: 9h._ Certificate: [here](https://www.udemy.com/certificate/UC-6140a2d7-86a8-4ae0-922a-890c12cca994/)
+- REST APIs: Building a robust API with .Net and Azure. _School: [Udemy](https://www.udemy.com/)._ _Duration: 9h._ [certificate](https://www.udemy.com/certificate/UC-6140a2d7-86a8-4ae0-922a-890c12cca994/)
 
 
