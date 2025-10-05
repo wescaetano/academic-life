@@ -19,7 +19,7 @@ Reserved repository to list a little of my `academic life.`
 
 ## Courses <a name="courses"></a>
 
-Below is a list of the courses I completed. There are currently `4` courses with a total of `106 hours.`
+Below is a list of the courses I completed. There are currently `5` courses with a total of `122 hours.`
 
 
 #### Algorithms
@@ -33,6 +33,10 @@ Below is a list of the courses I completed. There are currently `4` courses with
 #### C#
 
 - Fundamentals of C#. _School: [Balta.io](https://balta.io/)._ _Duration: 12h._ [certificate](https://balta.io/certificados/6c1a4729-f298-4c7d-8859-9dceca7ce2bb)
+
+#### Entity Framework Core
+
+- Entity Framework Core - The complete course. _School: [Udemy](https://www.udemy.com/)._ _Duration: 16h._ [certificate](https://www.udemy.com/certificate/UC-80af43e8-48a1-4662-86f8-242d9f338de4/)
 
 #### REST APIs
 
