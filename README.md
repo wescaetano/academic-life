@@ -43,7 +43,7 @@ Below is a list of the courses I completed. There are currently `7` courses with
 
 #### ASP.NET
 
-- REST APIs: Building a robust API with .Net and Azure. _School: [Udemy](https://www.udemy.com/)._ _Duration: 9h._ [certificate](https://www.udemy.com/certificate/UC-6140a2d7-86a8-4ae0-922a-890c12cca994/)
+- REST APIs: Building a robust API with .NET and Azure. _School: [Udemy](https://www.udemy.com/)._ _Duration: 9h._ [certificate](https://www.udemy.com/certificate/UC-6140a2d7-86a8-4ae0-922a-890c12cca994/)
 
 #### Unit Testing
 
