@@ -19,7 +19,7 @@ Reserved repository to list a little of my `academic life.`
 
 ## Courses <a name="courses"></a>
 
-Below is a list of the courses I completed. There are currently `7` courses with a total of `163 hours.`
+Below is a list of the courses I completed. There are currently `8` courses with a total of `169 hours.`
 
 
 #### Algorithms
@@ -48,6 +48,10 @@ Below is a list of the courses I completed. There are currently `7` courses with
 #### Unit Testing
 
 - Mastering Unit Testing with C#. _School: [Udemy](https://www.udemy.com/)._ _Duration: 3h._ [certificate](https://www.udemy.com/certificate/UC-fffda14c-eeba-4c77-8483-ef2dc7b20e6f/)
+
+#### Cybersecurity
+
+- Introduction to Cybersecurity. _School: [Cisco](https://www.netacad.com/pt/)._ _Duration: 6h._ [certificate](https://www.credly.com/badges/556f5676-f4cf-4665-86d1-22be6c279685/linked_in_profile)
 
 
 
