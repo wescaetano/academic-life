@@ -4,12 +4,19 @@ Reserved repository to list a little of my `academic life.`
 
 ## Index
 - [Academic Education](#education)
+- [Certifications](#certifications)
 - [Languages](#language)
 - [Courses](#courses)
 
 ## Academic Education <a name="education"></a> 
 
-- `Bachelor of Technology in Systems Development` - Faculty of Technology of Itapetininga (FATEC-ITA) _(Brazil) [website](https://fatecitapetininga.edu.br/)._ 2024-2026 (3 years). 
+- `Bachelor of Technology in Systems Development` - Faculty of Technology of Itapetininga (FATEC-ITA) _(Brazil) [website](https://fatecitapetininga.edu.br/)._ 2024-2026 (3 years).
+
+## Certifications <a name="certifications"></a> 
+
+- Introduction to Cybersecurity. _School: [Cisco](https://www.netacad.com/pt/)._ _Duration: 6h._ [certificate](https://www.credly.com/badges/556f5676-f4cf-4665-86d1-22be6c279685/linked_in_profile)
+
+
 
 ## Languages <a name="language"></a> 
 
@@ -49,9 +56,6 @@ Below is a list of the courses I completed. There are currently `8` courses with
 
 - Mastering Unit Testing with C#. _School: [Udemy](https://www.udemy.com/)._ _Duration: 3h._ [certificate](https://www.udemy.com/certificate/UC-fffda14c-eeba-4c77-8483-ef2dc7b20e6f/)
 
-#### Cybersecurity
-
-- Introduction to Cybersecurity. _School: [Cisco](https://www.netacad.com/pt/)._ _Duration: 6h._ [certificate](https://www.credly.com/badges/556f5676-f4cf-4665-86d1-22be6c279685/linked_in_profile)
 
 
 
