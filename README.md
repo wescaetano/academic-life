@@ -14,9 +14,12 @@ Reserved repository to list a little of my `academic life.`
 
 ## Certifications <a name="certifications"></a> 
 
-- Introduction to Cybersecurity. _School: [Cisco](https://www.netacad.com/pt/)._ _Duration: 6h._ [certificate](https://www.credly.com/badges/556f5676-f4cf-4665-86d1-22be6c279685/linked_in_profile)
+- Introduction to Cybersecurity. Company: [Cisco](https://www.netacad.com/pt/)._ _Duration: 6h._ [certification](https://www.credly.com/badges/556f5676-f4cf-4665-86d1-22be6c279685/linked_in_profile)
 
-
+  <div>
+  <img src="https://github.com/wescaetano/academic-life/blob/main/certifications-img/cybersecurity-certfication-img.png" alt="First page" height="160">
+  &nbsp;&nbsp;&nbsp;
+  </div>
 
 ## Languages <a name="language"></a> 
 
